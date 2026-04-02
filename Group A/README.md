@@ -2,11 +2,11 @@
 
 
 ## Table Of Contents:
-* [Introduction] (#Introduction) :
-* [ObjectivesOfTheProject] (#ObjectivesOfTheProject) :
-* [ScopeOfTheProject] (#ScopeOfTheProject) :
+* [Introduction] (#Introduction)
+* [Objectives Of The Project] (#ObjectivesOfTheProject)
+* [Scope Of This Project] (#ScopeOfTheProject)
 
-# Introduction:
+## Introduction:
 The Online Quiz Website is a web-based application designed to help students
 participate in quizzes in an easy, organized, and secure way. In this system, a student
 must first create an account through registration, then log in to access the quiz section.
@@ -15,7 +15,7 @@ profile dashboard where detailed information will be displayed.
 This project aims to demonstrate the practical implementation of web technologies by
 developing a complete user-based quiz management system.
 
- # Objectives of the Project:
+ ## Objectives of the Project:
 The main objectives of this project are:
 ● To develop a complete online quiz platform for students
 ● To create a secure registration and login system
@@ -25,7 +25,7 @@ The main objectives of this project are:
 information
 ● To apply web technologies in a practical and real-world project
 
-# Scope of the Project:
+## Scope of the Project:
 The scope of this project includes the development of the following modules:
 ● Home Page
 ● Registration Page
