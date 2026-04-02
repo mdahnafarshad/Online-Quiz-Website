@@ -7,7 +7,7 @@
 
 ## Introduction
 The Online Quiz Website is a web-based application designed to help students participate in quizzes in an easy, organized, and secure way. In this system, a student must first create an account through registration, then log in to access the quiz section. 
-
+ 
 After completing the quiz, the student will be able to view the result and visit a personal profile dashboard where detailed information will be displayed. This project aims to demonstrate the practical implementation of web technologies by developing a complete user-based quiz management system.
 
 ## Objectives of the Project
