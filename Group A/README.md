@@ -2,9 +2,9 @@
 
 
 ## Table Of Contents:
-* [About this Project](#ntroduction:)
-* [Gole](#ObjectivesOfTheProject)
-* [Application Scope](#ScopeOftheProject:)
+* [Introduction] (#Introduction) :
+* [ObjectivesOfTheProject] (#ObjectivesOfTheProject) :
+* [ScopeOfTheProject] (#ScopeOfTheProject) :
 
 # Introduction:
 The Online Quiz Website is a web-based application designed to help students
